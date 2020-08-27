@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-catalogservices", "e-catalogservices\e-catalogservices.csproj", "{4C6F5497-E122-497C-AE82-35F495389BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-orderservices", "e-orderservices\e-orderservices.csproj", "{3F34AA58-A207-4915-95CC-4DB0D5CAD49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6F5497-E122-497C-AE82-35F495389BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6F5497-E122-497C-AE82-35F495389BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6F5497-E122-497C-AE82-35F495389BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6F5497-E122-497C-AE82-35F495389BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F34AA58-A207-4915-95CC-4DB0D5CAD49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F34AA58-A207-4915-95CC-4DB0D5CAD49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F34AA58-A207-4915-95CC-4DB0D5CAD49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F34AA58-A207-4915-95CC-4DB0D5CAD49D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A42A42E-8F39-46A1-AA57-C358CACD68FC}
+	EndGlobalSection
+EndGlobal
